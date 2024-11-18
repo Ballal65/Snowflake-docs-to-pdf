@@ -1,2 +1,16 @@
 # Convert Snowflake docs to pdf
 This repository contains a simple Python program to convert any URL from `docs.snowflake.com` into a PDF. The program is intended for educational purposes, especially for those preparing for the Snowflake SnowPro certification. I created this tool to study offline when I am traveling, or want to study without my computer by printing the documentation. If you're on a similar learning journey, you may find this resource helpful.
+
+# Simple steps to use this program
+## Step 1:  Create a virtual environment
+```
+python -m venv venv
+```
+## Step 2: Installing requirements
+```
+python -r reuqirements.txt
+```
+## Step 3: Use the program
+```
+python main.py
+```
