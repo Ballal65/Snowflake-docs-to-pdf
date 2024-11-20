@@ -14,3 +14,4 @@ python -r reuqirements.txt
 ```
 python main.py
 ```
+I have added some example PDFs that I downloaded from `docs.snowflake.com` You can edit the main.py as you need. Cheers! I hope you find this helpful.
